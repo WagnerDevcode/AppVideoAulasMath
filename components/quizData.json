@@ -1,0 +1,152 @@
+[
+  {
+    "question": "Qual as raizes da equação do 2º grau acima?",
+    "options": [
+      "x' = 5 e x'' = 8",
+      "x' = 4 e x'' = -5",
+      "x' = -8 e x'' = 3",
+      "x' = 7 e x'' = -5",
+      "x' = -4 e x'' = -3"
+    ],
+    "correct": 1,
+    "image": "equacao1.png"
+  },
+  {
+    "question": "Assinale o valor correto para o desafio:",
+    "options": ["15 ", "16", "17", "18", "19"],
+    "correct": 0,
+    "image": "sistema1.png"
+  },
+  {
+    "question": "Um retângulo teve as suas dimensões descritas em metros, conforme a imagem acima: O valor de x que faz com que a área dessa região seja igual a 32 é:",
+    "options": ["x = 2", "x = 3", "x = 4", "x = 5", "x = 6"],
+    "correct": 3,
+    "image": "https://s1.static.brasilescola.uol.com.br/exercicios/2021/01/1-questao-2-imagem.jpg"
+  },
+  {
+    "question": "Determine a altura do prédio da imagem a seguir, sabendo que os lados EC e FG são perpendiculares a CD; e EC e FG são paralelos entre si. Assinale a alternativa que apresenta a altura do prédio em metros",
+    "options": [
+      "3000 metros",
+      "3200 metros",
+      "3400 metros",
+      "3600 metros",
+      "3800 metros"
+    ],
+    "correct": 1,
+    "image": "proporcao1.png"
+  },
+  {
+    "question": "Qual o valor de x e y no sistema de equações:",
+    "options": [
+      "x = 10 e y = 20 ",
+      "x = 10 e y = 25",
+      "x = 8 e y = 20",
+      "x = 8 e y = 10",
+      "x = 10 e y= 15 "
+    ],
+    "correct": 0,
+    "image": "https://images.educamaisbrasil.com.br/content/banco_de_imagens/eb/D/metodo-de-substituicao-1.jpg"
+  },
+  {
+    "question": "Qual o valor de x e y no sistema de equações:",
+    "options": [
+      " x = 15 e y = 18",
+      " x = 18 e y = 12",
+      " x = 18 e y = 13",
+      " x = 17 e y = 10",
+      " x = 18 e y = 13"
+    ],
+    "correct": 2,
+    "image": "https://casadamatematica.com.br/wp-content/uploads/2018/04/Exemplo-de-sistema-de-equa%C3%A7%C3%A3o-de-primeiro-grau.png"
+  },
+  {
+    "question": "Qual o valor de x e y no sistema de equações:",
+    "options": [
+      "x = 10 e y = 20 ",
+      "x = 15 e y = 5",
+      "x = 5 e y = 20",
+      "x = 5 e y = 10",
+      "x = 10 e y= 5 "
+    ],
+    "correct": 1,
+    "image": "sistema4.png"
+  },
+  {
+    "question": "Qual o valor de x e y no sistema de equações:",
+    "options": [
+      "x = 10 e y = 20 ",
+      "x = 12 e y = 12",
+      "x = 5 e y = 20",
+      "x = 5 e y = 10",
+      "x = 10 e y= 5 "
+    ],
+    "correct": 1,
+    "image": "sistema3.png"
+  },
+  {
+    "question": "Qual o peso de um melão e de uma melância?",
+    "options": [
+      "Melão pesa 1 kg e Melância pesa 4 kg",
+      "Melão pesa 1 kg e Melância pesa 5 kg",
+      "Melão pesa 2 kg e Melância pesa 4 kg",
+      "Melão pesa 2 kg e Melância pesa 1 kg",
+      "Melão pesa 1 kg e Melância pesa 5 kg"
+    ],
+    "correct": 0,
+    "image": "sistema2.png"
+  },
+  {
+    "question": "Em um estacionamento há carros e motos, num total de 12 veículos e 34 rodas, assinale apenas a quantidade correta de carros e motos.",
+    "options": [
+      "Há 4 motos e 6 carros ",
+      "Há 7 motos e 5 carros ",
+      "Há 8 motos e 6 carros ",
+      "Há 7 motos e 6 carros ",
+      "Há 4 motos e 8 carros "
+    ],
+    "correct": 1,
+    "image": ""
+  },
+  {
+    "question": "Burj Khalifa é o prédio mais alto do mundo. Além do papel que exerce como ponto turístico de Dubai, nos Emirados Árabes Unidos, o empreendimento é um marco arquitetônico e um símbolo de poder. Inaugurado em 2010, o edifício inspira engenheiros, atrai turistas e é visto como referencial para outras construções. Considerando as ideias de proporção entre triângulos calcule a altura do prédio Burj Khalifa. Assinala e alternativa que apresenta a altura do maior prédio do mundo em metros",
+    "options": ["528 m", "628 m", "828 m", "928 m", "1028 m"],
+    "correct": 2,
+    "image": "proporcao2.png"
+  },
+  {
+    "question": "(Enem/2009 - adaptada) A rampa de um hospital tem na sua parte mais elevada uma altura de 2,5 metros. Um paciente ao caminhar sobre a rampa percebe que se deslocou 4 metros e alcançou uma altura de 0,5 metro. A distância, em metros, que o paciente ainda deve caminhar para atingir o ponto mais alto da rampa é",
+    "options": ["13", "14", "15", "16", "17"],
+    "correct": 3,
+    "image": ""
+  },
+  {
+    "question": "Na promoção de uma loja, uma calça e uma camiseta custam juntas R$ 67,00. Comprei 3 calças e 2 camisetas e paguei o total de R$184. O preço de cada calça e de cada camisa, respectivamente, é:",
+    "options": [
+      "R$ 50,00 e R$ 20,00.",
+      "R$ 50,00 e R$ 18,00.",
+      "R$ 17,00 e R$ 50,00",
+      "R$ 50,00 e R$ 17,00",
+      "R$ 25,00 e R$ 30,00"
+    ],
+    "correct": 3,
+    "image": ""
+  },
+  {
+    "question": "Sobre o discriminante (delta) de uma equação do segundo grau, podemos dizer que uma equação não possui solução real se:",
+    "options": ["Δ = 0", "Δ > 0", "Δ < 0", "Δ > 1", "Δ = 1"],
+    "correct": 2,
+    "image": ""
+  },
+  {
+    "question": "A área do retângulo acima é igual a 117 m², então, o valor de x é:",
+    "options": ["1", "2", "3", "4", "5"],
+    "correct": 4,
+    "image": "https://static.mundoeducacao.uol.com.br/exercicios/2022/10/retangulo.jpg"
+  },
+  {
+    "question": "(Unesp) A sombra de um prédio, em um terreno plano, em uma determinada hora do dia, mede 15 m. Nesse mesmo instante, próximo ao prédio, a sombra de um poste de altura 5 m mede 3 m. A altura do prédio, em metros, é:",
+    "options": ["25", "29", "30", "45", "75"],
+    "correct": 1,
+    "image": ""
+  }
+]
