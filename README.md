@@ -1,10 +1,9 @@
 ﻿# AppVideoAulasMath
 
-VideoAulasMath
+#VideoAulasMath
 Autor: Wagner Da Silva Santos
 
-Descrição
-O VideoAulasMath é um aplicativo desenvolvido para fornecer videoaulas interativas de matemática, projetado especialmente para ajudar estudantes a melhorar suas habilidades e compreensão em diversos tópicos matemáticos. O aplicativo é construído usando React Native com Expo, TypeScript e Firebase.
+O APPVideoAulasMath é um aplicativo desenvolvido para fornecer videoaulas interativas de matemática, projetado especialmente para ajudar estudantes a melhorar suas habilidades e compreensão em diversos tópicos matemáticos. O aplicativo é construído usando React Native com Expo, TypeScript e Firebase.
 
 Funcionalidades
 Tela de Lista de Vídeos: Navegue por uma lista de videoaulas, com cada vídeo exibido em uma interface moderna e intuitiva.
