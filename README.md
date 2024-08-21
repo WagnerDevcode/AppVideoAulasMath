@@ -1,7 +1,5 @@
 ﻿# AppVideoAulasMath
 
-Aqui está um exemplo de texto para a apresentação do seu projeto de videoaulas de matemática no GitHub. Sinta-se à vontade para personalizá-lo conforme necessário:
-
 VideoAulasMath
 Autor: Wagner Da Silva Santos
 
